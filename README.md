@@ -1,4 +1,4 @@
-# Hello, my name is Nicholas Shore, but i go by Nick!
+# Hello, my name is Nicholas Shore, but I go by Nick!
 - Trained in the arts of Python, JS, HTML, CSS, Django, Flask, Bootstrap, SQL, and a few others...
 - Includes some exposure to ESRI's ArcGIS and geodatabase management.
 - Interested in Data Sciences and Analytics.
