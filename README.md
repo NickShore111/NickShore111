@@ -1,8 +1,10 @@
-# Hello, my name is Nicholas Shore, but I go by Nick!
-- Trained in the arts of Python, JS, HTML, CSS, Django, Flask, Bootstrap, SQL, and a few others...
+# Hello, my name is Nicholas Shore, but you can call me Nick!
+- Knowledge base of programming languages includes Python, Java, JS, HTML, CSS, SQL.
+- Library familiarity with JQuery, JQueryUI and Bootstrap.
+- Frameworks used include Flask and Django.
+- Prefered IDE is VSCode, currently using Color Theme: Dracula at Night.
 - Includes some exposure to ESRI's ArcGIS and geodatabase management.
-- Interested in Data Sciences and Analytics.
-- Living in the PNW where I relocated from Austin,TX, but before was a born and raised Floridian.
-- My background is in personnel and procedure management, with an education in Environmental Science and Law.
+- Interests include Data Analytics and Visualization.
+- My background is in personnel and procedural management, with a formal education in Environmental Science and Law.
 
-In search of projects that will push my coding comprehension and skills to the next level.
+Constantly in search of projects that will push my coding comprehension and skills to the next level.
