@@ -1,7 +1,7 @@
 # Hello, my name is Nicholas Shore, but you can call me Nick!
 - Knowledge base of programming languages includes Python, Java, JS, HTML, CSS, SQL.
 - Library familiarity with JQuery, JQueryUI and Bootstrap.
-- Frameworks used include Flask and Django.
+- Frameworks used include Flask, Django and SpringBoot.
 - Prefered IDE is VSCode, currently using Color Theme: Dracula at Night.
 - Includes some exposure to ESRI's ArcGIS and geodatabase management.
 - Interests include Data Analytics and Visualization.
