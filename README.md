@@ -1,6 +1,6 @@
 # Hello, my name is Nicholas Shore, but you can call me Nick!
 - Knowledge base of programming languages:
-  - Python    **HTML
+  - Python
   - Java
   - JS
   - HTML
