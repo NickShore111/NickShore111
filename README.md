@@ -1,5 +1,5 @@
 # Hello, my name is Nicholas Shore, but you can call me Nick!
-- Knowledge base of programming languages includes:
+- Knowledge base of programming languages:
   - Python
   - Java
   - JS
