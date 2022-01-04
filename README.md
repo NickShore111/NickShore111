@@ -1,11 +1,11 @@
 # Hello, my name is Nicholas Shore and I am a self-taught computer programmer/software developer.
-- My knowledge base of programming languages includes:
-  - Python
-  - Java
-  - JS
-  - HTML
-  - CSS
-  - SQL
+My knowledge base of programming languages includes:
+- Python
+- Java
+- JS
+- HTML
+- CSS
+- SQL
  
  and is growing by the day/week/month/year.
  
