@@ -1,16 +1,20 @@
-# Hello, my name is Nicholas Shore, but you can call me Nick!
-- Knowledge base of programming languages:
+# Hello, my name is Nicholas Shore and I am a self-taught computer programmer/software developer.
+- My knowledge base of programming languages includes:
   - Python
   - Java
   - JS
   - HTML
   - CSS
   - SQL
-- Familiar with ESRI's ArcGIS and geodatabase management.
-- Dababase technologies:
+ and is growing by the day/week/month/year.
+ 
+- Familiar with ESRI's ArcGIS and geodatabase management from my days as an undergraduate at UCF in Environmental Science.
+- Dababase management technologies include:
   - PostgresQL
   - MySQL
   - SQLite
+  - Oracle
+ 
 - Frameworks used include Flask, Django and SpringBoot.
 - Interests include Data Analytics and Visualization.
 
