@@ -27,8 +27,8 @@ My programming interests and career development lay within the fields of
 - Data Visualization
 - Database management
 
-After several years in production and facility management where I supervised teams and departments overseeing various aspects within the fields of HR, logistics, quality assurance and finance I found myself wanting more in terms of my long term career goals. I relocated to the Pacific Northwest in the hopes of refocusing my career towards an environmental science track, a subject which I had recieved my Bachelor of Science Degree in from the University of Central Florida. 
+After several years in personnel, production, natural resource and facility management with experience in multi-team supervision, overseeing various aspects within the fields of HR, logistics, quality assurance and finance, I found myself longing for a new challenge in my career development. I relocated to the Pacific Northwest in the hopes of developing a new career path towards technology services and computer science.
 
-I was lucky enough to be offered a position with the Department of Fish and Wildlife of Washington State, working summers on the coastline collecting data for fisheries management. After several summers I fortunately came to realize that this was not where my long term passions lie.
+After much forethought and deliberation, I took the necessary steps to begin a new path in life in Computer Programming. Following in the mentorship of someone with experience in the field and who had accomplished this transition themselves, and with much support from my family, I began to teach myself the the necessary tools that would provide me the foundation for a new career in the technology industry.
 
-After much forethought and deliberation, I took the necessary steps to begin a new path in life in Computer Programming. Following in the mentorship of someone with experience in the field and who had accomplished this transition themselves, and with much support from my family, I began to teach myself the the necessary tools that would provide me the foundation for a new career in the technology industry. 
+With this new found passion and set of Full Stack Developer skills, I find myself gravitating towards the field of data analytics, visualization, and data management.
